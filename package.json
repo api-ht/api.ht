@@ -1,0 +1,25 @@
+{
+  "name": "api.ht",
+  "version": "0.0.1",
+  "description": "HyperText API SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/api-ht/api.ht.git"
+  },
+  "keywords": [
+    "api",
+    "hypertext",
+    "hateoas",
+    "sdk"
+  ],
+  "author": "API.HT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/api-ht/api.ht/issues"
+  },
+  "homepage": "https://github.com/api-ht/api.ht#readme"
+}
