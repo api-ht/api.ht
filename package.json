@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/api-ht/api.ht/issues"
   },
-  "homepage": "https://github.com/api-ht/api.ht#readme",
+  "homepage": "https://api.ht",
   "devDependencies": {
     "vitest": "^0.34.3"
   }
